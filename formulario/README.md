@@ -7,7 +7,8 @@ Formulario Feito em Flutter para estudos sobre Mobx
  <li>Selecionar device utilizando flutter emulators --launch nome do dispositivo</li>
  <li>flutter run</li>
 </ul>
-![](https://ibb.co/SvrgjXN)
+![Screenshot_1588946545](https://user-images.githubusercontent.com/56095699/81413699-40c53800-911c-11ea-823e-7d70fb98a151.png)
+
 
 
 
